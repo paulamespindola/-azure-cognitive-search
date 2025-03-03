@@ -53,7 +53,6 @@ Hora de ver os resultados! Use o Search Explorer para realizar consultas. Aqui v
 - Para filtrar por localização:
 
 ```json
-Copiar
 {
     "search": "locations:'Chicago'",
     "count": true
@@ -65,7 +64,6 @@ Copiar
 - Para ver as avaliações negativas:
 
 ```json
-Copiar
 {
     "search": "sentiment:'negative'",
     "count": true
