@@ -77,7 +77,7 @@ Copiar
 ## Insights e Aprendizados
 Uau, essa jornada foi cheia de aprendizados! 🚀 Aqui estão algumas das minhas descobertas:
 
-* Análise de Sentimentos: Entender o que os clientes realmente pensam pode fazer toda a diferença! As avaliações negativas geralmente têm motivos específicos que podemos resolver.
-* Poder das Habilidades Cognitivas: Usar IA para extrair informações é como ter um superpoder! Fiquei impressionada com o quanto podemos descobrir rapidamente.
-* Integração de Serviços: Aprendi que juntar tudo no Azure não é só uma boa ideia, é essencial! Isso me deixou super animada para criar soluções mais complexas no futuro.
-* Desenvolvimento Pessoal: Essa experiência me deixou mais confiante em trabalhar com dados e explorar novas tecnologias. Mal posso esperar para aplicar tudo isso em projetos reais!
+* **Análise de Sentimentos:** Entender o que os clientes realmente pensam pode fazer toda a diferença! As avaliações negativas geralmente têm motivos específicos que podemos resolver.
+* **Poder das Habilidades Cognitivas:** Usar IA para extrair informações é como ter um superpoder! Fiquei impressionada com o quanto podemos descobrir rapidamente.
+* **Integração de Serviços:** Aprendi que juntar tudo no Azure não é só uma boa ideia, é essencial! Isso me deixou super animada para criar soluções mais complexas no futuro.
+* **Desenvolvimento Pessoal:** Essa experiência me deixou mais confiante em trabalhar com dados e explorar novas tecnologias. Mal posso esperar para aplicar tudo isso em projetos reais!
